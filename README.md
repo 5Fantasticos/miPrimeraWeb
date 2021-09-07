@@ -30,3 +30,31 @@ Realizamos la conexión de mi repo local con mi repo remoto
 11. Cada integrante del equipo deberá clonar el repositorio en la carpeta de su computador donde quiera empezar a trabajar.
 12. Ya con el repositorio ubicado donde se va a trabajar deberá crear un repositorio local (git init).
 13. Empezar a desarrollar sus issues con el nombre de rama creado y sólo sobre esa rama para evitar sobrescribir encima del trabajo de los otros integrantes del equipo.
+
+## Septiembre 4
+
+### Realizamos reunion grupal:
+
+- configuracion del repositorio localmente en los integrantes.
+- crear ramas individuales.
+- crear repositorios y hacer push de prueba.
+- clonar repositorio grupal.
+- realizar pull sobre las ramas indicadas.
+- cambiar entre rama y rama.
+- configuracion del entorno de trabajo HTML CSS JS.
+
+
+
+
+## Septiembre 6
+
+### Creacion de ISSUES
+
+- se le asigno su respectivo **ISSUE** al equipo de trabajo.
+- se le agrego una breve descripcion de que tarea se desempeña en el **ISSUE** según sección.
+- el **ISSUE** corresponde según sección asignada el dia **4/09/2021**
+
+
+
+
+
