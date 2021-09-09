@@ -55,6 +55,14 @@ Realizamos la conexión de mi repo local con mi repo remoto
 - el **ISSUE** corresponde según sección asignada el dia **4/09/2021**
 
 
+## Septiembre 7
 
+### Fijación de Horarios
+
+* Se fijan horarios para tutorias sincrónicas jueves y viernes.
+* Las reuniones diarias del equipo quedan de la siguiente manera:
+    - Lunes y Miércoles después de clase
+    - Jueves y Viernes a las 20:00 horas
+    - Sábado a las 14:00 horas
 
 
