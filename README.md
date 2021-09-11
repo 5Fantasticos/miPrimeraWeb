@@ -66,3 +66,7 @@ Realizamos la conexión de mi repo local con mi repo remoto
     - Sábado a las 14:00 horas
 
 
+## Septiembre 8
+
+*Se terminan de clonar las ramas para que todo el equipo quede con el ISSUE activo.
+*Se deja como tarea la creación de historias de usuario como aportes de cada integrante.
