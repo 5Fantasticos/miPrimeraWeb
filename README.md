@@ -70,3 +70,5 @@ Realizamos la conexión de mi repo local con mi repo remoto
 
 *Se terminan de clonar las ramas para que todo el equipo quede con el ISSUE activo.
 *Se deja como tarea la creación de historias de usuario como aportes de cada integrante.
+
+actualizo carpeta domingo 2:08pm
