@@ -3,3 +3,77 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
+
+.section-services-title{
+    text-align: center;
+    font-weight: 500;
+}
+
+.title-services_text{
+    margin: auto;
+    text-align: center;
+    color:blueviolet;
+}
+
+.title-services{
+    
+    display: flex;
+    width: 199px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+    background: thistle;
+    box-shadow: 0 1px;
+}
+.services-content-title{
+    text-align: center;
+}
+
+.image-services{
+
+    padding-top: 5px;
+}
+
+.image-services:hover{
+
+    opacity: 0.6;
+}
+
+
+
+.content-articles{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.services-article{
+    padding: 50px;
+}
+
+.services-content{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.btn-info{
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+    width:95%;
+    border: 1px solid;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    color: blueviolet;
+    background: thistle;
+}
+
+.btn-info:hover{
+    color: blue;
+    transform: scale(1.1);
+}
