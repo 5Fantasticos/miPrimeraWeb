@@ -100,3 +100,5 @@ actualizo carpeta domingo 2:08pm
 Depués de terminar la clase, el equipo se reúne para ultimar detalles acerca de cada sección que le correspondió a cada uno y continuar con el trabajo. Se aclaran dudas generales.
 
 
+## Septiembre 15
+
