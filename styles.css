@@ -1,6 +1,28 @@
-body{
+body {
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
 }
 
+.seccion-noticias {
+    flex-wrap: wrap;
+}
+
+.services-info {
+    padding: 20px;
+    text-align: center;
+}
+
+.news-info {
+    width: 50%;
+    padding: 20px;
+}
+
+.news-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.news-info__title {
+    align-self: center;
+}
