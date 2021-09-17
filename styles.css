@@ -4,3 +4,47 @@ body{
     margin-left: auto;
 }
 
+.team-info__imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.content-team{
+    /* background: rgba(218, 106, 15, 0.26); */
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+.team-info__title{
+    font: oblique bold 120% cursive;
+}
+
+span{
+    font-weight: bold;
+    font-size:17px;
+}
+
+.team-article{
+    width: 220px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 10px 18px grey;
+}
+
+.section-team-title{
+    text-align: center;
+    font: oblique bold 120% cursive;
+    border: 1px solid;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px grey;
+}
+
+.content-title{
+    display:flex;
+    justify-content:center;
+}
