@@ -52,6 +52,10 @@ Realizamos la conexión de mi repo local con mi repo remoto
 - se le agrego una breve descripcion de que tarea se desempeña en el **ISSUE** según sección.
 - el **ISSUE** corresponde según sección asignada el dia **4/09/2021**
 
+----------------------------------------------------------------------------------------
+
+Formateo de archivos index y css 10 sep 2021
+
 
 ## Septiembre 7
 
