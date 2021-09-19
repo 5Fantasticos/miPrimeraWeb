@@ -2,10 +2,6 @@ body{
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
-<<<<<<< HEAD
-}
-/* footer Andres maigual */
-=======
 }
 
 
@@ -81,4 +77,10 @@ body{
     color: blue;
     transform: scale(1.1);
 }
->>>>>>> 559c814f4690fd249a287332f321acb48d592e88
+.pie_del_sitio {
+    background: #4B3869;
+    margin: auto;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
