@@ -49,3 +49,134 @@ text-align:center;
 }
 
 /* fin estilo milena gomez */
+
+.team-info__imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.content-team{
+    /* background: rgba(218, 106, 15, 0.26); */
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+.team-info__title{
+    font: oblique bold 120% cursive;
+}
+
+span{
+    font-weight: bold;
+    font-size:17px;
+}
+
+.team-article{
+    width: 220px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 10px 18px rgba(211, 55, 203, 0.342);
+}
+
+.section-team-title{
+    text-align: center;
+    font: Trebuchet MS;
+    border: 1px solid;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px rgba(211, 55, 203, 0.342);
+}
+
+.content-title{
+    display:flex;
+    justify-content:center;
+}
+
+.team-info__text{
+    font-family: Trebuchet;
+}
+
+
+.section-services-title{
+    text-align: center;
+    font-weight: 500;
+}
+
+.title-services_text{
+    margin: auto;
+    text-align: center;
+    color:blueviolet;
+}
+
+.title-services{
+    
+    display: flex;
+    width: 199px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+    background: thistle;
+    box-shadow: 0 1px;
+}
+.services-content-title{
+    text-align: center;
+}
+
+.image-services{
+
+    padding-top: 5px;
+}
+
+.image-services:hover{
+
+    opacity: 0.6;
+}
+
+
+
+.content-articles{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.services-article{
+    padding: 50px;
+}
+
+.services-content{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.btn-info{
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+    width:95%;
+    border: 1px solid;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    color: blueviolet;
+    background: thistle;
+}
+
+.btn-info:hover{
+    color: blue;
+    transform: scale(1.1);
+}
+
+.pie_del_sitio {
+    background: #4B3869;
+    margin: auto;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
