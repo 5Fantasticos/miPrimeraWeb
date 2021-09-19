@@ -2,14 +2,17 @@ body {
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
+    background-image: url(src./Huellitas.jpg);
 }
 
 .section-news-title {
     text-align: center;
     font-weight: 600;
-    color: #4a00f6;
+    color: #ae93ee;
     font-family: fantasy;
     font-size: 200%;
+    font-style: oblique;
+    background-color: darkslateblue;
 }
 
 .tittle-news-text {
