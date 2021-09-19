@@ -44,8 +44,6 @@ Realizamos la conexión de mi repo local con mi repo remoto
 - configuracion del entorno de trabajo HTML CSS JS.
 
 
-
-
 ## Septiembre 6
 
 ### Creacion de ISSUES
@@ -58,6 +56,42 @@ Realizamos la conexión de mi repo local con mi repo remoto
 
 Formateo de archivos index y css 10 sep 2021
 
+
+## Septiembre 7
+
+### Fijación de Horarios
+
+* Se fijan horarios para tutorias sincrónicas jueves y viernes.
+* Las reuniones diarias del equipo quedan de la siguiente manera:
+    - Lunes y Miércoles después de clase
+    - Jueves y Viernes a las 20:00 horas
+    - Sábado a las 14:00 horas
+
+
+## Septiembre 8
+
+### Revisión ramas
+
+* Se reune el equipo para verificar la rama que le corresponde a cada integrante del equipo.
+* Después de verificar y realizar las clonaciones respectivas se da por terminada la reunión.
+
+
+## Septiembre 9
+
+### Sprint 0
+
+* Se hace lectura de los ítems para el entregable del Sprint 0
+* Después de realizar la revisión vemos que está pendiente el product backlog
+
+
+## Septiembre 10
+
+### Tutoría
+
+* Nos reunimos con el tutor Darwin Solano, quien nos aclara dudas sobre la entrega del Sprint 0
+* También se hace consulta sobre historias de usuario y product backlog y la diferencia entre estos.
+* Aclaradas las dudas terminamos tutoría.
+* El equipo sigue reunido y se llega al acuerdo de cambiar la rama principal, debido a que la anterior presenta errores.
 
 
 
