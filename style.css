@@ -1,0 +1,55 @@
+body{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* inicio estilos de milena gomez */
+/*primero en el móvil (mobile first)*/
+nav {
+    padding: 1em;
+    font-family: Verdana, Geneva, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: rgb(240, 223, 245);
+}
+
+nav li a {
+    color: rgb(187, 83, 218);
+    display: block;
+    text-decoration: none;
+    padding: .5em 1em;
+}
+
+nav li a:hover {
+    background: rgb(242, 233, 250);
+    color: rgb(187, 83, 218);
+}
+
+/* estilos para pantallas con una anchura más grande de 480px */
+@media screen and (min-width: 480px) {
+    nav ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    }
+}
+
+/*la caja puede crecer para ocupar todo el espacio disponible */
+nav li{
+flex-grow:1;
+text-align:center;
+}
+
+.banner_img{
+width: 1200px;
+}
+/* fin estilo milena gomez */
