@@ -7,7 +7,9 @@ body {
 .section-news-title {
     text-align: center;
     font-weight: 600;
-    color: darkslateblue;
+    color: #4a00f6;
+    font-family: fantasy;
+    font-size: 200%;
 }
 
 .tittle-news-text {
@@ -15,7 +17,7 @@ body {
     text-align: center;
 }
 
-.news-info_imagen {
+.news-info-imagen {
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -25,22 +27,16 @@ body {
     display: flex;
     justify-content: space-evenly;
     text-align: center;
-}
-
-.news-info-imagen {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%
-}
-
-.content-articles {
-    display: flex;
-    justify-content: space-around;
     flex-wrap: wrap;
+    padding-top: 10px;
 }
 
-.news-content {
-    display: flex;
-    flex-flow: wrap colummn-reverse;
-    align-items: center;
+.new-article {
+    width: 45%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 5%;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(213, 198, 248);
 }
