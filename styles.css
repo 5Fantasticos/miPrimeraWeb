@@ -36,7 +36,6 @@ nav li a:hover {
 @media screen and (min-width: 480px) {
     nav ul {
     display: flex;
-    align-items: center;
     flex-wrap: wrap;
     justify-content: center;
     justify-content: space-around;
@@ -49,7 +48,4 @@ flex-grow:1;
 text-align:center;
 }
 
-.banner_img{
-width: 1200px;
-}
 /* fin estilo milena gomez */
