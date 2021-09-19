@@ -127,3 +127,10 @@ span{
     transform: scale(1.1);
 }
 
+.pie_del_sitio {
+    background: #4B3869;
+    margin: auto;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
