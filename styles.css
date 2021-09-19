@@ -4,25 +4,43 @@ body {
     margin-left: auto;
 }
 
-.seccion-noticias {
-    flex-wrap: wrap;
+.section-news-title {
+    text-align: center;
+    font-weight: 600;
+    color: darkslateblue;
 }
 
-.services-info {
-    padding: 20px;
+.tittle-news-text {
+    margin: auto;
     text-align: center;
 }
 
-.news-info {
-    width: 50%;
-    padding: 20px;
+.news-info_imagen {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
-.news-header {
+.content-news {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.news-info-imagen {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%
+}
+
+.content-articles {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
-.news-info__title {
-    align-self: center;
+.news-content {
+    display: flex;
+    flex-flow: wrap colummn-reverse;
+    align-items: center;
 }
