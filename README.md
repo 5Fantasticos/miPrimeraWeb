@@ -70,6 +70,41 @@ Formateo de archivos index y css 10 sep 2021
 
 ## Septiembre 8
 
+
+* Se terminan de clonar las ramas para que todo el equipo quede con el ISSUE activo.
+* Se deja como tarea la creación de historias de usuario como aportes de cada integrante.
+
+actualizo carpeta domingo 2:08pm
+
+## Septiembre 9
+
+* El equipo se reúne para unificar la información de historias de usuario que se tienen para el primer Sprint.
+* Se hace realiza participación en el foro de Scrum, para subir la información teórica del primer Sprin del proyecto final junto con el repositorio.
+* Se elabora el product backlog.
+
+## Septiembre 10
+
+* Se monta en el Foro Scrum el product backlog como único documento faltante.
+* En reunión con el tutor Darwin Solano, se le hacen consultas primero de las sesiones asincrónicas, dejándo en claro que son solo con el tutor Scrum, y que él nos atiende cuando nosotros programemos tutoría, puede ser grupal o individual.
+* Se le dan a conocer las dudas que tenemos acerca de historias de usuario y el product backlog. Él hace una explicación y aclaración del tema.
+* Después que termina la tutoría el equipo sigue reunido para verificar que la información dada por el tutor fue asimilada por todos.
+
+## Septiembre 11
+
+* Se cambia la base del repositorio para empezar a trabajar el Sprint 1 del proyecto.
+
+## Septiembre 12
+
+* Se hizo reunión de equipo para trabajar el primer entregable del Sprint 1. Se hace la lectura del documento varias veces, luego nos disponemos a hacer los cambios requeridos, y posteriormente las pruebas.
+* Después de asegurarnos que estaba bien, cada integrante subió el documento a la plataforma.
+
+## Septiembre 13
+
+Depués de terminar la clase, el equipo se reúne para ultimar detalles acerca de cada sección que le correspondió a cada uno y continuar con el trabajo. Se aclaran dudas generales.
+
+
+## Septiembre 15
+=======
 ### Revisión ramas
 
 * Se reune el equipo para verificar la rama que le corresponde a cada integrante del equipo.
@@ -92,6 +127,7 @@ Formateo de archivos index y css 10 sep 2021
 * También se hace consulta sobre historias de usuario y product backlog y la diferencia entre estos.
 * Aclaradas las dudas terminamos tutoría.
 * El equipo sigue reunido y se llega al acuerdo de cambiar la rama principal, debido a que la anterior presenta errores.
+
 
 
 

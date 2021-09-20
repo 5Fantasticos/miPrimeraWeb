@@ -1,10 +1,56 @@
-body{
+body {
     width: 1200px;
     margin-right: auto;
     margin-left: auto;
+    background-image: url(src./Huesos.jpg);
 }
 
-/* inicio estilos de milena gomez */
+
+/* inicio estilos Andrea Avella */
+.section-news-title {
+    text-align: center;
+    font-weight: 600;
+    color: #ae93ee;
+    font-family: fantasy;
+    font-size: 200%;
+    font-style: oblique;
+    background-color: darkslateblue;
+}
+
+.tittle-news-text {
+    margin: auto;
+    text-align: center;
+}
+
+.news-info-imagen {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.content-news {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.new-article {
+    width: 45%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 5%;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(203, 183, 250);
+}
+
+/* fin estilos Andrea Avella */
+
+
+
+/* inicio estilos de Milena Gomez */
 /*primero en el móvil (mobile first)*/
 nav {
     padding: 1em;
@@ -53,13 +99,34 @@ flex-grow:1;
 text-align:center;
 }
 
-/* fin estilo milena gomez */
+/* fin estilo Milena Gomez */
 
+/* inicio estilo Johana Roa */
+  
 .team-info__imagen{
     width: 200px;
     height: 200px;
     border-radius: 50%;
 }
+
+.content-news {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.new-article {
+    width: 45%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 5%;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(203, 183, 250);
+}
+
 
 .content-team{
     /* background: rgba(218, 106, 15, 0.26); */
@@ -103,7 +170,10 @@ span{
 .team-info__text{
     font-family: Trebuchet;
 }
-
+  
+/* fin estilo Johana Roa */
+  
+/* inicio estilo Miguel Vinasco */
 
 .section-services-title{
     text-align: center;
@@ -140,8 +210,6 @@ span{
     opacity: 0.6;
 }
 
-
-
 .content-articles{
     display: flex;
     justify-content: space-around;
@@ -177,7 +245,10 @@ span{
     color: blue;
     transform: scale(1.1);
 }
+  
+/* fin estilo Miguel Vinasco */
 
+/* inicio estilo Andres Maigual */
 .pie_del_sitio {
     background: #4B3869;
     margin: auto;
@@ -185,3 +256,4 @@ span{
     color: white;
     justify-content: space-evenly;
 }
+ /* fin estilo Andres Maigual */
