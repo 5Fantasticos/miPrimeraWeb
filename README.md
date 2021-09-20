@@ -44,8 +44,6 @@ Realizamos la conexión de mi repo local con mi repo remoto
 - configuracion del entorno de trabajo HTML CSS JS.
 
 
-
-
 ## Septiembre 6
 
 ### Creacion de ISSUES
@@ -53,6 +51,10 @@ Realizamos la conexión de mi repo local con mi repo remoto
 - se le asigno su respectivo **ISSUE** al equipo de trabajo.
 - se le agrego una breve descripcion de que tarea se desempeña en el **ISSUE** según sección.
 - el **ISSUE** corresponde según sección asignada el dia **4/09/2021**
+
+----------------------------------------------------------------------------------------
+
+Formateo de archivos index y css 10 sep 2021
 
 
 ## Septiembre 7
@@ -67,6 +69,7 @@ Realizamos la conexión de mi repo local con mi repo remoto
 
 
 ## Septiembre 8
+
 
 * Se terminan de clonar las ramas para que todo el equipo quede con el ISSUE activo.
 * Se deja como tarea la creación de historias de usuario como aportes de cada integrante.
@@ -101,4 +104,31 @@ Depués de terminar la clase, el equipo se reúne para ultimar detalles acerca d
 
 
 ## Septiembre 15
+=======
+### Revisión ramas
+
+* Se reune el equipo para verificar la rama que le corresponde a cada integrante del equipo.
+* Después de verificar y realizar las clonaciones respectivas se da por terminada la reunión.
+
+
+## Septiembre 9
+
+### Sprint 0
+
+* Se hace lectura de los ítems para el entregable del Sprint 0
+* Después de realizar la revisión vemos que está pendiente el product backlog
+
+
+## Septiembre 10
+
+### Tutoría
+
+* Nos reunimos con el tutor Darwin Solano, quien nos aclara dudas sobre la entrega del Sprint 0
+* También se hace consulta sobre historias de usuario y product backlog y la diferencia entre estos.
+* Aclaradas las dudas terminamos tutoría.
+* El equipo sigue reunido y se llega al acuerdo de cambiar la rama principal, debido a que la anterior presenta errores.
+
+
+
+
 

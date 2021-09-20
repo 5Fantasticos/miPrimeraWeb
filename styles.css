@@ -5,6 +5,8 @@ body {
     background-image: url(src./Huesos.jpg);
 }
 
+
+/* inicio estilos Andrea Avella */
 .section-news-title {
     text-align: center;
     font-weight: 600;
@@ -43,3 +45,215 @@ body {
     font-family: 'Trebuchet MS';
     background-color: rgb(203, 183, 250);
 }
+
+/* fin estilos Andrea Avella */
+
+
+
+/* inicio estilos de Milena Gomez */
+/*primero en el móvil (mobile first)*/
+nav {
+    padding: 1em;
+    font-family: Verdana, Geneva, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: rgb(240, 223, 245);
+}
+
+nav li a {
+    color: rgb(187, 83, 218);
+    display: block;
+    text-decoration: none;
+    padding: .5em 1em;
+}
+
+nav li a:hover {
+    background: rgb(242, 233, 250);
+    color: rgb(187, 83, 218);
+}
+
+/* estilos para pantallas con una anchura más grande de 480px */
+@media screen and (min-width: 480px) {
+    nav ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    }
+}
+
+.banner_img{
+    width: 100%;
+}
+
+/*la caja puede crecer para ocupar todo el espacio disponible */
+nav li{
+flex-grow:1;
+text-align:center;
+}
+
+/* fin estilo Milena Gomez */
+
+/* inicio estilo Johana Roa */
+  
+.team-info__imagen{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.content-news {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.new-article {
+    width: 45%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 5%;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(203, 183, 250);
+}
+
+
+.content-team{
+    /* background: rgba(218, 106, 15, 0.26); */
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+.team-info__title{
+    font: oblique bold 120% cursive;
+}
+
+span{
+    font-weight: bold;
+    font-size:17px;
+}
+
+.team-article{
+    width: 220px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 10px 18px rgba(211, 55, 203, 0.342);
+}
+
+.section-team-title{
+    text-align: center;
+    font: Trebuchet MS;
+    border: 1px solid;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px rgba(211, 55, 203, 0.342);
+}
+
+.content-title{
+    display:flex;
+    justify-content:center;
+}
+
+.team-info__text{
+    font-family: Trebuchet;
+}
+  
+/* fin estilo Johana Roa */
+  
+/* inicio estilo Miguel Vinasco */
+
+.section-services-title{
+    text-align: center;
+    font-weight: 500;
+}
+
+.title-services_text{
+    margin: auto;
+    text-align: center;
+    color:blueviolet;
+}
+
+.title-services{
+    
+    display: flex;
+    width: 199px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+    background: thistle;
+    box-shadow: 0 1px;
+}
+.services-content-title{
+    text-align: center;
+}
+
+.image-services{
+
+    padding-top: 5px;
+}
+
+.image-services:hover{
+
+    opacity: 0.6;
+}
+
+.content-articles{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.services-article{
+    padding: 50px;
+}
+
+.services-content{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.btn-info{
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+    width:95%;
+    border: 1px solid;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    color: blueviolet;
+    background: thistle;
+}
+
+.btn-info:hover{
+    color: blue;
+    transform: scale(1.1);
+}
+  
+/* fin estilo Miguel Vinasco */
+
+/* inicio estilo Andres Maigual */
+.pie_del_sitio {
+    background: #4B3869;
+    margin: auto;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+ /* fin estilo Andres Maigual */
