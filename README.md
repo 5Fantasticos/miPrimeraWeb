@@ -81,13 +81,17 @@ actualizo carpeta domingo 2:08pm
 * El equipo se reúne para unificar la información de historias de usuario que se tienen para el primer Sprint.
 * Se hace realiza participación en el foro de Scrum, para subir la información teórica del primer Sprin del proyecto final junto con el repositorio.
 * Se elabora el product backlog.
+* Se hace lectura de los ítems para el entregable del Sprint 0
+* Después de realizar la revisión vemos que está pendiente el product backlog
 
 ## Septiembre 10
 
+* ### Tutoría
 * Se monta en el Foro Scrum el product backlog como único documento faltante.
 * En reunión con el tutor Darwin Solano, se le hacen consultas primero de las sesiones asincrónicas, dejándo en claro que son solo con el tutor Scrum, y que él nos atiende cuando nosotros programemos tutoría, puede ser grupal o individual.
 * Se le dan a conocer las dudas que tenemos acerca de historias de usuario y el product backlog. Él hace una explicación y aclaración del tema.
 * Después que termina la tutoría el equipo sigue reunido para verificar que la información dada por el tutor fue asimilada por todos.
+* Aclaradas las dudas terminamos tutoría.
 
 ## Septiembre 11
 
@@ -104,29 +108,18 @@ Depués de terminar la clase, el equipo se reúne para ultimar detalles acerca d
 
 
 ## Septiembre 15
-=======
 ### Revisión ramas
 
 * Se reune el equipo para verificar la rama que le corresponde a cada integrante del equipo.
 * Después de verificar y realizar las clonaciones respectivas se da por terminada la reunión.
 
+## Septiembre 19
 
-## Septiembre 9
+##Reunion Grupal
 
-### Sprint 0
-
-* Se hace lectura de los ítems para el entregable del Sprint 0
-* Después de realizar la revisión vemos que está pendiente el product backlog
-
-
-## Septiembre 10
-
-### Tutoría
-
-* Nos reunimos con el tutor Darwin Solano, quien nos aclara dudas sobre la entrega del Sprint 0
-* También se hace consulta sobre historias de usuario y product backlog y la diferencia entre estos.
-* Aclaradas las dudas terminamos tutoría.
-* El equipo sigue reunido y se llega al acuerdo de cambiar la rama principal, debido a que la anterior presenta errores.
+* Se reune el equipo para combiar **MERGE** la rama que le corresponde a cada integrante del equipo con la rama main.
+* Se arreglan algunos detalles con los estilos de algunas secciones.
+* Se solucionan los problemas que se generaron a la hora de hacer el **MERGE**.
 
 
 
